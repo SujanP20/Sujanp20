@@ -5,8 +5,7 @@
 ---
 
 ### 🚀 About Me
-
-- 🎓 B.E. Computer Science @ Rajarajeshwari College Of Engineering, Bengaluru (CGPA: 7.8)
+- 🎓 B.E. Computer Science @ Rajarajeshwari College Of Engineering, Bengaluru (CGPA: 7.6)
 - 💻 Passionate about Backend Development, AI/ML, and building scalable web applications
 - 🌱 Currently exploring FastAPI, Deep Learning & Explainable AI
 - 📫 Reach me at: sujan.p4444@gmail.com
@@ -14,7 +13,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,16 +46,15 @@ RESTful API backend with Python, FastAPI, database integration, and deployment.
 
 ### 📜 Certifications
 
-| Certificate | Issuer | Year |
-|---|---|---|
-| 🏆 **Skyscanner Front-End Software Engineering** | Forage (Job Simulation) | 2024 |
-| 📊 **Data Science with Python** | Cisco Networking Academy | 2024 |
-| 📈 **Data Analytics Essentials** | Cisco Networking Academy | 2024 |
+| Certificate | Issuer |
+|---|---|
+| 🏆 **Skyscanner Front-End Software Engineering** | Forage (Job Simulation) |
+| 📊 **Data Science with Python** | Cisco Networking Academy |
+| 📈 **Data Analytics Essentials** | Cisco Networking Academy |
 
 ---
 
 ### 📊 GitHub Stats
-
 [![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujanp20&show_icons=true&theme=tokyonight)](https://github.com/Sujanp20)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujanp20&layout=compact&theme=tokyonight)](https://github.com/Sujanp20)
 
